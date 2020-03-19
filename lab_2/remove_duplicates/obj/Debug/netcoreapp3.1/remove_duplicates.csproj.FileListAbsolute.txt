@@ -1,0 +1,11 @@
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.exe
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.deps.json
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.runtimeconfig.json
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.runtimeconfig.dev.json
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.dll
+F:\backend_2020\lab_2\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.pdb
+F:\backend_2020\lab_2\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.csprojAssemblyReference.cache
+F:\backend_2020\lab_2\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.AssemblyInfoInputs.cache
+F:\backend_2020\lab_2\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.AssemblyInfo.cs
+F:\backend_2020\lab_2\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.dll
+F:\backend_2020\lab_2\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.pdb
